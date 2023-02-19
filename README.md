@@ -1,2 +1,2 @@
 # kuboble
-This is simple clone of kuboble game.
+## This is a simple clone of kuboble game.
