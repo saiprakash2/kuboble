@@ -1,11 +1,11 @@
 # kuboble
 This is a simple clone of kuboble game written in python with tkinter library.
 
-Steps:
+**Steps:**
 1. Clone the project
 2. Run it in your IDE.
 
-## Rules of the game:
+**Rules of the game:**
 You need to move both the square boxes into the marked area with the least number of moves.
 
 
